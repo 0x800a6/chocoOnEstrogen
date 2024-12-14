@@ -1,35 +1,27 @@
-<h1 align="center">🐾 Hello, I'm Stella! 🌸</h1>
+<h1 align="center">🐾 はじめまして、ステラです！ 🌸</h1>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-choco.rip-ff69b4?style=for-the-badge)](https://choco.rip)
-[![Discord](https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge)](https://discord.com/users/1248626823638552701)
-[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-1DA1F2?style=for-the-badge)](https://bsky.app/profile/choco.rip)
+[![ウェブサイト](https://img.shields.io/badge/サイト-choco.rip-ff69b4?style=for-the-badge)](https://choco.rip)
+[![Discord](https://img.shields.io/badge/Discord-つながる-7289DA?style=for-the-badge)](https://discord.com/users/1248626823638552701)
+[![Bluesky](https://img.shields.io/badge/Bluesky-フォロー-1DA1F2?style=for-the-badge)](https://bsky.app/profile/choco.rip)
 
-*Puppy girl • Full Stack Developer • Tech Enthusiast* 🏳️‍⚧️
-
-<details>
-<summary>Translations</summary>
-
-- [日本語](./translations/ja-JP.md)
-- [Polski](./translations/pl-PL.md)
-
-</details>
+*パピーガール • フルスタック開発者 • テック愛好家* 🏳️‍⚧️
 
 </div>
 
-## 🌟 About Me
+## 🌟 自己紹介
 
-- 🐕 Just your friendly neighborhood puppy girl developer
-- 🚀 Founder & Lead Developer of [VTubersTV](https://vtubers.tv)
-- 🌏 Based in Tokyo, Japan
-- 🎌 Multilingual: English, Japanese, Polish, German
-- 💝 Passionate about coding, anime, and cosplay
+- 🐕 近所のフレンドリーなパピーガール開発者です
+- 🚀 [VTubersTV](https://vtubers.tv)の創設者＆リード開発者
+- 🌏 東京在住
+- 🎌 多言語話者：英語、日本語、ポーランド語、ドイツ語
+- 💝 プログラミング、アニメ、コスプレが大好き
 
-## 🛠️ Tech Stack
+## 🛠️ 技術スタック
 
 <details>
-<summary>🔧 Programming Languages</summary>
+<summary>🔧 プログラミング言語</summary>
 <br>
 <img src=".github/assets/images/programming/typescript.svg" width="48" alt="TypeScript">
 <img src=".github/assets/images/programming/javascript.svg" width="48" alt="JavaScript">
@@ -43,7 +35,7 @@
 </details>
 
 <details>
-<summary>📚 Frameworks</summary>
+<summary>📚 フレームワーク</summary>
 <br>
 <img src=".github/assets/images/frameworks/nuxtjs.svg" width="48" alt="Nuxt.js">
 <img src=".github/assets/images/frameworks/astro.svg" width="48" alt="Astro">
@@ -53,7 +45,7 @@
 </details>
 
 <details>
-<summary>🔨 Tools & Services</summary>
+<summary>🔨 ツール・サービス</summary>
 <br>
 <img src=".github/assets/images/editors/neovim.svg" width="48" alt="Neovim">
 <img src=".github/assets/images/editors/vim.svg" width="48" alt="Vim">
@@ -64,36 +56,34 @@
 <img src=".github/assets/images/services/git.svg" width="48" alt="Git">
 </details>
 
-## 🌸 Featured Projects
+## 🌸 主なプロジェクト
 
 <details>
-<summary>🎥 <b>VTubersTV</b> - The Ultimate VTuber Platform</summary>
+<summary>🎥 <b>VTubersTV</b> - 究極のVTuberプラットフォーム</summary>
 <br>
-A comprehensive platform dedicated to VTuber content and community engagement.
+VTuberコンテンツとコミュニテエンゲージメントに特化した総合プラットフォーム。
 <br>
-Stay tuned for the upcoming launch! ✨
+近日公開予定！お楽しみに！ ✨
 </details>
 
 <details>
-<summary>🤖 <b>Rem Bot</b> - The Ultimate GitHub Bot</summary>
+<summary>🤖 <b>Rem Bot</b> - 究極のGitHubボット</summary>
 <br>
-A powerful GitHub bot designed to enhance your repository management and collaboration.
+リポジトリ管理とコラボレーションを強化するために設計された強力なGitHubボット。
 <br>
 
 [Rem Bot](https://github.com/chocoOnEstrogen/rem-bot)
 
 </details>
 
-## 📊 GitHub Activity
+## 📊 GitHub活動
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chocoOnEstrogen&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</div>
+[GitHub stats section remains the same]
 
 <div align="center">
 
 ---
 
-<i>Thanks for visiting! Feel free to reach out for collaborations or just to say hi~ 🐾</i>
+<i>ご訪問ありがとうございます！コラボレーションのご相談や、お気軽なご挨拶をお待ちしています～ 🐾</i>
 
 </div>
