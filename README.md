@@ -80,14 +80,14 @@ Stay tuned for the upcoming launch! ✨
 A powerful GitHub bot designed to enhance your repository management and collaboration.
 <br>
 
-[Rem Bot](https://github.com/chocoOnEstrogen/rem-bot)
+[Rem Bot](https://github.com/korpselgbt/rem-bot)
 
 </details>
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chocoOnEstrogen&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=korpselgbt&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
 <div align="center">
