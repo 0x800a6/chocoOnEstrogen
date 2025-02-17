@@ -49,13 +49,15 @@ Czekajcie na nadchodzącą premierę! ✨
 Potężny bot GitHub stworzony do usprawnienia zarządzania repozytoriami i współpracy.
 <br>
 
-[Rem Bot](https://github.com/chocoOnEstrogen/rem-bot)
+[Rem Bot](https://github.com/korpselgbt/rem-bot)
 
 </details>
 
 ## 📊 Aktywność na GitHub
 
-[GitHub stats section remains the same]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=korpselgbt&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
