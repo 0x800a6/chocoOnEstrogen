@@ -72,13 +72,15 @@ VTuberコンテンツとコミュニテエンゲージメントに特化した�
 リポジトリ管理とコラボレーションを強化するために設計された強力なGitHubボット。
 <br>
 
-[Rem Bot](https://github.com/chocoOnEstrogen/rem-bot)
+[Rem Bot](https://github.com/korpselgbt/rem-bot)
 
 </details>
 
 ## 📊 GitHub活動
 
-[GitHub stats section remains the same]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=korpselgbt&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
