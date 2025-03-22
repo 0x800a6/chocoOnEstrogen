@@ -1,28 +1,28 @@
-<h1 align="center">🐾 Hello, I'm Stella! 🌸</h1>
+<h1 align="center">🐾 Hello, I'm Selina! 🌸</h1>
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-choco.rip-ff69b4?style=for-the-badge)](https://choco.rip)
 [![Discord](https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge)](https://discord.com/users/1248626823638552701)
-[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-1DA1F2?style=for-the-badge)](https://bsky.app/profile/choco.rip)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-1DA1F2?style=for-the-badge)](https://bsky.app/profile/choco.vtubers.team)
 
 *Puppy girl • Full Stack Developer • Tech Enthusiast* 🏳️‍⚧️
+</div>
 
 <details>
 <summary>Translations</summary>
 
 - [日本語](./translations/ja-JP.md)
 - [Polski](./translations/pl-PL.md)
+- [Deutsch](./translations/de-DE.md)
 
 </details>
-
-</div>
 
 ## 🌟 About Me
 
 - 🐕 Just your friendly neighborhood puppy girl developer
 - 🚀 Founder & Lead Developer of [VTubersTV](https://vtubers.tv)
-- 🌏 Based in Tokyo, Japan
+- 🌏 Based in Waycross, Georgia
 - 🎌 Multilingual: English, Japanese, Polish, German
 - 💝 Passionate about coding, anime, and cosplay
 

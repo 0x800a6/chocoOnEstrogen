@@ -1,4 +1,4 @@
-<h1 align="center">🐾 Cześć, jestem Stella! 🌸</h1>
+<h1 align="center">🐾 Cześć, jestem Selina! 🌸</h1>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 - 🐕 Po prostu przyjazna programistka-szczeniaczek z sąsiedztwa
 - 🚀 Założycielka i główna programistka [VTubersTV](https://vtubers.tv)
-- 🌏 Mieszkam w Tokio, Japonia
+- 🌏 Mieszkam w Waycross, Georgia
 - 🎌 Wielojęzyczna: angielski, japoński, polski, niemiecki
 - 💝 Pasjonatka programowania, anime i cosplayu
 
@@ -49,7 +49,7 @@ Czekajcie na nadchodzącą premierę! ✨
 Potężny bot GitHub stworzony do usprawnienia zarządzania repozytoriami i współpracy.
 <br>
 
-[Rem Bot](https://github.com/korpselgbt/rem-bot)
+[Rem Bot](https://github.com/chocoOnEstrogen/rem-bot)
 
 </details>
 
