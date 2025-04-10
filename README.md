@@ -64,6 +64,10 @@
 <img src=".github/assets/images/services/git.svg" width="48" alt="Git">
 </details>
 
+## Discord
+
+[![Discord Profile](https://www.choco.rip/discord-profile?id=1248626823638552701)](https://discord.com/users/1248626823638552701)
+
 ## 🌸 Featured Projects
 
 <details>
