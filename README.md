@@ -1,103 +1,39 @@
-<h1 align="center">🐾 Hello, I'm Selina! 🌸</h1>
+![Preview](./images/bg.webp)
 
-<div align="center">
+### Hi!👋 I'm Selina!🎀
 
-[![Website](https://img.shields.io/badge/Website-choco.rip-ff69b4?style=for-the-badge)](https://choco.rip)
-[![Discord](https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge)](https://discord.com/users/1248626823638552701)
-[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-1DA1F2?style=for-the-badge)](https://bsky.app/profile/choco.vtubers.team)
+**Cosplayer, Developer, and more!** 
 
-*Puppy girl • Full Stack Developer • Tech Enthusiast* 🏳️‍⚧️
-</div>
+## **☕ About me**
+<a href="https://github.com/chocoOnEstrogen"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
+I'm a Hikikomori, and my hobbies include playing games, watching anime, reading manga, cosplaying, listening to music, coding, and sometimes screwing around with random stuff like hardware.
+<br><br>
 
-<details>
-<summary>Translations</summary>
+## **💻 Experience**
+<a href="https://github.com/chocoOnEstrogen"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
+I'm currently studying software engineering. I'm currently working on [VTubersTV](https://vtubers.tv).
 
-- [日本語](./translations/ja-JP.md)
-- [Polski](./translations/pl-PL.md)
-- [Deutsch](./translations/de-DE.md)
+## **📊 Github Stats**
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=chocoOnEstrogen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocoOnEstrogen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
 
-</details>
+## **🧋Cutie Counter**
+<a href="https://discord.com/users/1248626823638552701"><img align="right" width=400 src="https://count.getloli.com/@chocoOnEstrogen?name=chocoOnEstrogen&theme=rule34&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
+<a href="https://github.com/chocoOnEstrogen"><img align="left" width="100" src="./images/mahiro.png"></a>
 
-## 🌟 About Me
+```yaml
+People who visit my profile :3.
 
-- 🐕 Just your friendly neighborhood puppy girl developer
-- 🚀 Founder & Lead Developer of [VTubersTV](https://vtubers.tv)
-- 🌏 Based in Waycross, Georgia
-- 🎌 Multilingual: English, Japanese, Polish, German
-- 💝 Passionate about coding, anime, and cosplay
+Hehe~ another cutie has been caught.
+```
 
-## 🛠️ Tech Stack
+## **📫 Contact**
+<a href="https://github.com/chocoOnEstrogen"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
+**Please Contact me on Discord for a quick response:** [choco.go](https://discord.com/users/1248626823638552701)
 
-<details>
-<summary>🔧 Programming Languages</summary>
-<br>
-<img src=".github/assets/images/programming/typescript.svg" width="48" alt="TypeScript">
-<img src=".github/assets/images/programming/javascript.svg" width="48" alt="JavaScript">
-<img src=".github/assets/images/programming/python.svg" width="48" alt="Python">
-<img src=".github/assets/images/programming/rust.svg" width="48" alt="Rust">
-<img src=".github/assets/images/programming/c.svg" width="48" alt="C">
-<img src=".github/assets/images/programming/csharp.svg" width="48" alt="C#">
-<img src=".github/assets/images/programming/html5.svg" width="48" alt="HTML5">
-<img src=".github/assets/images/programming/markdown.svg" width="48" alt="Markdown">
-<img src=".github/assets/images/programming/bash.svg" width="48" alt="Bash">
-</details>
+**You can also email me here:** selinaonestrogen@gmail.com
 
-<details>
-<summary>📚 Frameworks</summary>
-<br>
-<img src=".github/assets/images/frameworks/nuxtjs.svg" width="48" alt="Nuxt.js">
-<img src=".github/assets/images/frameworks/astro.svg" width="48" alt="Astro">
-<img src=".github/assets/images/frameworks/tailwindcss.svg" width="48" alt="TailwindCSS">
-<img src=".github/assets/images/frameworks/bootstrap.svg" width="48" alt="Bootstrap">
-<img src=".github/assets/images/frameworks/discordjs.svg" width="48" alt="Discord.js">
-</details>
 
-<details>
-<summary>🔨 Tools & Services</summary>
-<br>
-<img src=".github/assets/images/editors/neovim.svg" width="48" alt="Neovim">
-<img src=".github/assets/images/editors/vim.svg" width="48" alt="Vim">
-<img src=".github/assets/images/editors/vscode.svg" width="48" alt="VSCode">
-<img src=".github/assets/images/services/azure.svg" width="48" alt="Azure">
-<img src=".github/assets/images/services/cloudflare.svg" width="48" alt="Cloudflare">
-<img src=".github/assets/images/services/googlecloud.svg" width="48" alt="Google Cloud">
-<img src=".github/assets/images/services/git.svg" width="48" alt="Git">
-</details>
-
-## Discord
-
-[![Discord Profile](https://www.choco.rip/discord-profile?id=1248626823638552701)](https://discord.com/users/1248626823638552701)
-
-## 🌸 Featured Projects
-
-<details>
-<summary>🎥 <b>VTubersTV</b> - The Ultimate VTuber Platform</summary>
-<br>
-A comprehensive platform dedicated to VTuber content and community engagement.
-<br>
-Stay tuned for the upcoming launch! ✨
-</details>
-
-<details>
-<summary>🤖 <b>Rem Bot</b> - The Ultimate GitHub Bot</summary>
-<br>
-A powerful GitHub bot designed to enhance your repository management and collaboration.
-<br>
-
-[Rem Bot](https://github.com/chocoOnEstrogen/rem-bot)
-
-</details>
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chocoOnEstrogen&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-
----
-
-<i>Thanks for visiting! Feel free to reach out for collaborations or just to say hi~ 🐾</i>
-
-</div>
+[![](https://img.shields.io/github/followers/chocoOnEstrogen?label=Followers&style=social)](https://github.com/chocoOnEstrogen)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1248626823638552701)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:selinaonestrogen@gmail.com)
